@@ -1,4 +1,4 @@
-# Hello, World! 🌍 I'm Zoa
+# Hello, World! 🌍 I'm Eknath (Eganathan)
 
 ## 👨🏻‍💻 About Me
 
