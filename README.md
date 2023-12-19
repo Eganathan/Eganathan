@@ -1,4 +1,4 @@
-# Hello, World! 🌍 I'm Eknath (Eganathan)
+# Hello, World! 🌍 I'm Eknath
 
 ## 👨🏻‍💻 About Me
 
