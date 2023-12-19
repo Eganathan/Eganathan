@@ -43,7 +43,8 @@ I've delved into a variety of programming languages and technologies, including:
 - HTML/CSS
 - SQL
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eganathan&theme=tokyonight)
+## Language States(Public repo)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eganathan&theme=tokyonight)
   
 ## 📫 Get in Touch
 
