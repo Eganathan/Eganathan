@@ -43,8 +43,8 @@ I've delved into a variety of programming languages and technologies, including:
 - HTML/CSS
 - SQL
 
-[Language Stats:](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/eganathan)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eganathan&theme=tokyonight)
+  
 ## 📫 Get in Touch
 
 I'm open to collaborations, discussions, and new opportunities. Feel free to drop a message at [email](mailto:ammasamrith@gmail.com).
