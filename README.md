@@ -32,7 +32,7 @@ In my toolbox, you'll find:
 
 - 🤝 Let's connect professionally on [LinkedIn](http://linkedin.com/in/eganathan/)
 - 🐦 Follow me on [Twitter](https://www.twitter.com/eknath_dev)
-- 🌐 Discover more on my [Website](https://eknath.dev/)
+- 🌐 Discover more on my [Website](https://taplink.cc/eknath_dev)
 
 ## 🌟 Languages & Tech Stack Explored
 
